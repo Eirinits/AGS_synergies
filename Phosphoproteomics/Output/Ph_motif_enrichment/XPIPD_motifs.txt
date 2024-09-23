@@ -1,0 +1,21 @@
+Selection column	Selection value	Category column	Category value	Total size	Selection size	Category size	Intersection size	Enrichment factor	P value	Benj. Hoch. FDR
+x	2	EARLY DOWN TRANSITORY	JNK kinase substrate motif	8431	493	5	3	10.261	0.0017635	0.018301
+x	4	EARLY DOWN 2h	CDK kinase substrate motif	8431	546	526	62	1.8201	1.13E-06	3.18E-05
+x	4	EARLY DOWN 2h	Cdc2 kinase substrate motif	8431	546	645	76	1.8195	7.04E-08	2.87E-06
+x	4	EARLY DOWN 2h	"CDK1,2,4,6 kinase substrate motif"	8431	546	645	76	1.8195	7.04E-08	2.87E-06
+x	6	LATE DOWN	RasGAP C-terminal SH2 domain binding motif	8431	1561	44	19	2.3323	9.79E-05	0.0018254
+x	6	LATE DOWN	Crk SH2 domain binding motif	8431	1561	44	19	2.3323	9.79E-05	0.0018254
+x	6	LATE DOWN	BARD1 BRCT domain binding motif	8431	1561	135	57	2.2804	8.12E-11	6.87E-09
+x	6	LATE DOWN	b-Adrenergic Receptor kinase substrate motif	8431	1561	984	281	1.5424	6.90E-17	1.52E-14
+x	9	LATE UP	Calmodulin-dependent protein kinase I substrate motif	8431	1418	104	44	2.5155	4.77E-10	3.28E-08
+x	9	LATE UP	Aurora-A kinase substrate motif	8431	1418	104	40	2.2868	6.64E-08	2.87E-06
+x	9	LATE UP	Calmodulin-dependent protein kinase II alpha substrate motif	8431	1418	125	46	2.188	3.47E-08	1.91E-06
+x	9	LATE UP	HMGCoA Reductase kinase substrate motif	8431	1418	60	21	2.081	0.00032044	0.0051084
+x	9	LATE UP	Calmodulin-dependent protein kinase IV substrate motif	8431	1418	353	120	2.0212	4.83E-16	6.64E-14
+x	9	LATE UP	AMP-activated protein kinase substrate motif	8431	1418	180	59	1.9489	5.62E-08	2.58E-06
+x	9	LATE UP	Chk1 kinase substrate motif	8431	1418	422	137	1.9302	2.77E-16	4.55E-14
+x	9	LATE UP	Phosphorylase kinase substrate motif	8431	1418	340	110	1.9236	3.43E-13	3.43E-11
+x	9	LATE UP	PKC epsilon kinase substrate motif	8431	1418	380	104	1.6272	4.26E-08	2.23E-06
+x	9	LATE UP	14-3-3 domain binding motif	8431	1418	1305	344	1.5673	4.96E-22	1.36E-19
+x	9	LATE UP	Calmodulin-dependent protein kinase II substrate motif	8431	1418	1532	398	1.5446	1.43E-24	5.26E-22
+x	9	LATE UP	PAK2 kinase substrate motif	8431	1418	335	87	1.5441	4.63E-06	0.00012428

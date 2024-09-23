@@ -1,0 +1,196 @@
+"logFC_PI5Z_30m","logFC_PI5Z_2h","logFC_PI5Z_8h","PTM_collapse_key","PTM","Protein","Site_M","Site","M","Specific","ON_FUNCTION","ON_PROCESS","ON_PROT_INTERACT","ON_OTHER_INTERACT","Main_effect"
+0.0666364,0.114493,0.592715,"AKT1_S124_M1","AKT1_S124","AKT1","S124_M1","S124","M1",1,"enzymatic activity, induced","","","","activates"
+-1.5023,0.0100327,-7.03871,"AKT1_S124_M2","AKT1_S124","AKT1","S124_M2","S124","M2",0,"enzymatic activity, induced","","","","activates"
+0.17639,0.154314,0.51256,"AKT1_S129_M1","AKT1_S129","AKT1","S129_M1","S129","M1",0,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited; transcription, induced; signaling pathway regulation","palladin(INDUCES)","","activates"
+-1.45789,NA,-6.44074,"AKT1_S129_M2","AKT1_S129","AKT1","S129_M2","S129","M2",0,"molecular association, regulation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell motility, induced; cell growth, induced; apoptosis, inhibited; transcription, induced; signaling pathway regulation","palladin(INDUCES)","","activates"
+0.723505,0.968484,0.626187,"AKT1S1_S183_M1","AKT1S1_S183","AKT1S1","S183_M1","S183","M1",0,"molecular association, regulation","","mTOR(INDUCES); Raptor(DISRUPTS)","","molecular association"
+-0.676674,NA,-1.25319,"AKT1S1_S202_M2","AKT1S1_S202","AKT1S1","S202_M2","S202","M2",0,"molecular association, regulation","cell growth, induced; autophagy, inhibited","14-3-3 beta(INDUCES); Raptor(DISRUPTS)","","molecular association"
+-1.06586,NA,-2.13652,"AKT1S1_S203_M2","AKT1S1_S203","AKT1S1","S203_M2","S203","M2",0,"molecular association, regulation","cell growth, induced; autophagy, inhibited","14-3-3 beta(INDUCES); Raptor(DISRUPTS)","","molecular association"
+0.114197,0.287919,0.576127,"AKT1S1_S212_M1","AKT1S1_S212","AKT1S1","S212_M1","S212","M1",0,NA,NA,NA,NA,NA
+NA,NA,-7.06393,"AKT1S1_S212_M2","AKT1S1_S212","AKT1S1","S212_M2","S212","M2",0,NA,NA,NA,NA,NA
+1.08625,0.870141,0.875845,"AKT1S1_S88_M1","AKT1S1_S88","AKT1S1","S88_M1","S88","M1",0,NA,NA,NA,NA,NA
+-0.601728,-0.64456,-2.32569,"AKT1S1_S88_M2","AKT1S1_S88","AKT1S1","S88_M2","S88","M2",0,NA,NA,NA,NA,NA
+-0.663879,-0.792733,-2.60618,"AKT1S1_S92_M2","AKT1S1_S92","AKT1S1","S92_M2","S92","M2",0,NA,NA,NA,NA,NA
+0.76172,0.894482,1.0474,"AKT1S1_T246_M1","AKT1S1_T246","AKT1S1","T246_M1","T246","M1",0,"activity, induced; molecular association, regulation; activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, induced; cell motility, induced; signaling pathway regulation; cell growth, induced; apoptosis, inhibited; autophagy, inhibited; translation, induced","14-3-3 beta(INDUCES); Raptor(DISRUPTS); 14-3-3 eta(INDUCES); 14-3-3 beta(DISRUPTS)","","both"
+0.312034,1.24971,0.0333241,"AKT1S1_T90_M2","AKT1S1_T90","AKT1S1","T90_M2","T90","M2",0,NA,NA,NA,NA,NA
+-0.0673092,-1.34937,-2.21013,"ARAF_S186_M1","ARAF_S186","ARAF","S186_M1","S186","M1",0,NA,NA,NA,NA,NA
+-1.22916,-3.66459,-3.73112,"ARAF_S186_M2","ARAF_S186","ARAF","S186_M2","S186","M2",0,NA,NA,NA,NA,NA
+NA,NA,0.951829,"ARAF_S257_M1","ARAF_S257","ARAF","S257_M1","S257","M1",1,"enzymatic activity, induced","","","","activates"
+0.0310259,NA,-0.766311,"ARAF_S257_M2","ARAF_S257","ARAF","S257_M2","S257","M2",0,"enzymatic activity, induced","","","","activates"
+-2.19823,-1.72701,0.112758,"ARAF_T181_M1","ARAF_T181","ARAF","T181_M1","T181","M1",0,NA,NA,NA,NA,NA
+-1.22916,-3.66459,-3.73112,"ARAF_T181_M2","ARAF_T181","ARAF","T181_M2","T181","M2",0,NA,NA,NA,NA,NA
+0.188386,NA,-0.754134,"ARAF_T253_M2","ARAF_T253","ARAF","T253_M2","T253","M2",0,NA,NA,NA,NA,NA
+0.257433,0.208728,0.311962,"ARAF_Y155_M1","ARAF_Y155","ARAF","Y155_M1","Y155","M1",0,NA,NA,NA,NA,NA
+0.61656,0.26478,0.452391,"BRAF_S365_M1","BRAF_S365","BRAF","S365_M1","S365","M1",0,"enzymatic activity, inhibited","transcription, induced; cell growth, altered","","","inhibits"
+-0.218428,-0.25343,0.449784,"BRAF_S446_M1","BRAF_S446","BRAF","S446_M1","S446","M1",0,"molecular association, regulation; protein conformation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced","HRas(INDUCES); BRAF(NOT_REPORTED)","","activates"
+NA,-1.48812,-3.12561,"BRAF_S614_M1","BRAF_S614","BRAF","S614_M1","S614","M1",1,"molecular association, regulation; enzymatic activity, inhibited","","MEK1(DISRUPTS)","","inhibits"
+0.868105,0.338694,0.22677,"BRAF_S729_M1","BRAF_S729","BRAF","S729_M1","S729","M1",0,"molecular association, regulation; enzymatic activity, induced","cell cycle regulation; cell differentiation, altered; cell growth, inhibited; cell growth, altered","14-3-3 beta(INDUCES); KSR(INDUCES); RAF1(INDUCES)","","activates"
+-0.263263,-1.43723,-0.554457,"BRAF_S750_M1","BRAF_S750","BRAF","S750_M1","S750","M1",0,"molecular association, regulation","cell growth, altered","RAF1(DISRUPTS)","","molecular association"
+0.627062,0.299302,0.504041,"BRAF_T401_M1","BRAF_T401","BRAF","T401_M1","T401","M1",0,"molecular association, regulation; enzymatic activity, inhibited","cell growth, altered","RAF1(DISRUPTS)","","inhibits"
+-0.393631,NA,-0.00853654,"CASP2_S157_M1","CASP2_S157","CASP2","S157_M1","S157","M1",0,"protein conformation; activity, inhibited","","","","inhibits"
+-5.44487,NA,NA,"CASP7_S16_M1","CASP7_S16","CASP7","S16_M1","S16","M1",1,NA,NA,NA,NA,NA
+-2.01993,NA,-1.63851,"CTNNA1_S641_M1","CTNNA1_S641","CTNNA1","S641_M1","S641","M1",0,"molecular association, regulation; ubiquitination; intracellular localization; phosphorylation","carcinogenesis, induced; carcinogenesis, inhibited; cell growth, inhibited; cell motility, induced; cell motility, inhibited; signaling pathway regulation; transcription, altered; cell growth, induced; cell motility, altered; cytoskeletal reorganization; transcription, inhibited","CTNNB1(DISRUPTS); BTRC(DISRUPTS)","","molecular association"
+-1.22066,-0.808766,-1.34375,"CTNNA1_S652_M2","CTNNA1_S652","CTNNA1","S652_M2","S652","M2",0,NA,NA,NA,NA,NA
+0.381993,0.213025,0.492397,"CTNNA1_S655_M1","CTNNA1_S655","CTNNA1","S655_M1","S655","M1",0,NA,NA,NA,NA,NA
+-0.701521,-0.548492,-1.1491,"CTNNA1_S655_M2","CTNNA1_S655","CTNNA1","S655_M2","S655","M2",0,NA,NA,NA,NA,NA
+-1.04326,-0.695597,-0.911671,"CTNNA1_T654_M2","CTNNA1_T654","CTNNA1","T654_M2","T654","M2",0,NA,NA,NA,NA,NA
+-0.350387,-0.194757,-1.15873,"CTNNA1_T658_M2","CTNNA1_T658","CTNNA1","T658_M2","T658","M2",0,NA,NA,NA,NA,NA
+NA,NA,0.766554,"DUSP16_S501_M1","DUSP16_S501","DUSP16","S501_M1","S501","M1",0,NA,NA,NA,NA,NA
+NA,-1.30411,NA,"DUSP16_S508_M1","DUSP16_S508","DUSP16","S508_M1","S508","M1",0,NA,NA,NA,NA,NA
+-0.312302,-0.247898,0.317838,"DUSP16_S612_M1","DUSP16_S612","DUSP16","S612_M1","S612","M1",1,NA,NA,NA,NA,NA
+NA,0.405255,-1.51977,"DUSP16_S627_M1","DUSP16_S627","DUSP16","S627_M1","S627","M1",0,NA,NA,NA,NA,NA
+-0.894714,NA,-2.17146,"EIF2S2_S105_M2","EIF2S2_S105","EIF2S2","S105_M2","S105","M2",0,NA,NA,NA,NA,NA
+-2.38495,-1.9719,-2.22041,"EIF2S2_S13_M2","EIF2S2_S13","EIF2S2","S13_M2","S13","M2",0,NA,NA,NA,NA,NA
+0.0384281,0.0488024,-0.124032,"EIF2S2_S2_M1","EIF2S2_S2","EIF2S2","S2_M1","S2","M1",0,"","translation, altered; cell growth, altered","","",NA
+-2.38495,-1.9719,-2.22041,"EIF2S2_S2_M2","EIF2S2_S2","EIF2S2","S2_M2","S2","M2",0,"","translation, altered; cell growth, altered","","",NA
+-0.499651,-1.04864,-0.680982,"EIF2S2_S67_M1","EIF2S2_S67","EIF2S2","S67_M1","S67","M1",0,"","translation, altered; cell growth, altered","","",NA
+-0.894714,NA,-2.17146,"EIF2S2_T111_M2","EIF2S2_T111","EIF2S2","T111_M2","T111","M2",0,NA,NA,NA,NA,NA
+0.797594,0.0765957,0.134316,"EIF4EBP1_S101_M1","EIF4EBP1_S101","EIF4EBP1","S101_M1","S101","M1",0,NA,NA,NA,NA,NA
+-1.27157,-1.15956,-1.63865,"EIF4EBP1_S101_M2","EIF4EBP1_S101","EIF4EBP1","S101_M2","S101","M2",0,NA,NA,NA,NA,NA
+0.165745,0.259977,0.264128,"EIF4EBP1_S112_M1","EIF4EBP1_S112","EIF4EBP1","S112_M1","S112","M1",0,"molecular association, regulation; phosphorylation","","EIF4E(DISRUPTS)","","molecular association"
+-1.26098,-1.29182,-1.30891,"EIF4EBP1_S44_M2","EIF4EBP1_S44","EIF4EBP1","S44_M2","S44","M2",0,NA,NA,NA,NA,NA
+0.225798,0.967897,0.709095,"EIF4EBP1_S65_M1","EIF4EBP1_S65","EIF4EBP1","S65_M1","S65","M1",0,"molecular association, regulation; protein conformation; activity, inhibited; phosphorylation","translation, altered; cell growth, induced; apoptosis, inhibited; translation, induced; translation, inhibited","mTOR(DISRUPTS); EIF4E(DISRUPTS)","","inhibits"
+-1.17447,-0.609509,-1.17407,"EIF4EBP1_S65_M2","EIF4EBP1_S65","EIF4EBP1","S65_M2","S65","M2",0,"molecular association, regulation; protein conformation; activity, inhibited; phosphorylation","translation, altered; cell growth, induced; apoptosis, inhibited; translation, induced; translation, inhibited","mTOR(DISRUPTS); EIF4E(DISRUPTS)","","inhibits"
+-0.73771,-1.76239,NA,"EIF4EBP1_S83_M2","EIF4EBP1_S83","EIF4EBP1","S83_M2","S83","M2",0,"intracellular localization","carcinogenesis, induced","","","localization"
+1.35293,0.307936,0.114027,"EIF4EBP1_S96_M1","EIF4EBP1_S96","EIF4EBP1","S96_M1","S96","M1",0,NA,NA,NA,NA,NA
+-0.684251,-0.465875,-1.70879,"EIF4EBP1_T37_M2","EIF4EBP1_T37","EIF4EBP1","T37_M2","T37","M2",0,"molecular association, regulation; activity, inhibited; phosphorylation","carcinogenesis, induced; carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation; translation, altered; cell growth, induced; apoptosis, inhibited; autophagy, inhibited; translation, induced","4E-BP1(DISRUPTS); mTOR(DISRUPTS); EIF4E(DISRUPTS)","","inhibits"
+-0.945244,-0.444809,-1.74305,"EIF4EBP1_T46_M2","EIF4EBP1_T46","EIF4EBP1","T46_M2","T46","M2",0,"molecular association, regulation; activity, inhibited; phosphorylation","carcinogenesis, induced; carcinogenesis, inhibited; cell growth, inhibited; signaling pathway regulation; translation, altered; autophagy, induced; cell growth, induced; apoptosis, inhibited; autophagy, inhibited; translation, induced","4E-BP1(DISRUPTS); mTOR(DISRUPTS); EIF4E(DISRUPTS)","","inhibits"
+-0.949677,-0.575084,-0.635644,"EIF4EBP1_T68_M2","EIF4EBP1_T68","EIF4EBP1","T68_M2","T68","M2",0,NA,NA,NA,NA,NA
+-0.224923,-0.0884445,0.317758,"EIF4EBP1_T70_M1","EIF4EBP1_T70","EIF4EBP1","T70_M1","T70","M1",0,"molecular association, regulation; protein conformation; activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, induced; cell motility, induced; transcription, altered; translation, altered; cell growth, induced; autophagy, inhibited; translation, induced; translation, inhibited","4E-BP1(DISRUPTS); EIF4E(DISRUPTS)","","inhibits"
+-1.22006,-0.721328,-1.25956,"EIF4EBP1_T70_M2","EIF4EBP1_T70","EIF4EBP1","T70_M2","T70","M2",0,"molecular association, regulation; protein conformation; activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, induced; cell motility, induced; transcription, altered; translation, altered; cell growth, induced; autophagy, inhibited; translation, induced; translation, inhibited","4E-BP1(DISRUPTS); EIF4E(DISRUPTS)","","inhibits"
+0.551242,-0.0158192,-0.326976,"EIF4EBP1_T77_M1","EIF4EBP1_T77","EIF4EBP1","T77_M1","T77","M1",0,NA,NA,NA,NA,NA
+-1.62351,-1.25393,-1.05311,"EIF4EBP1_T77_M2","EIF4EBP1_T77","EIF4EBP1","T77_M2","T77","M2",0,NA,NA,NA,NA,NA
+0.047259,-1.13242,0.28356,"EIF4EBP1_T82_M1","EIF4EBP1_T82","EIF4EBP1","T82_M1","T82","M1",0,NA,NA,NA,NA,NA
+-0.829488,-0.583948,-1.493,"EIF4EBP1_Y34_M2","EIF4EBP1_Y34","EIF4EBP1","Y34_M2","Y34","M2",0,NA,NA,NA,NA,NA
+-0.115316,2.4171,2.95171,"FOXO1_S287_M1","FOXO1_S287","FOXO1","S287_M1","S287","M1",0,"intracellular localization","transcription, altered","","","localization"
+-0.0291365,NA,0.605826,"FOXO1_S329_M1","FOXO1_S329","FOXO1","S329_M1","S329","M1",0,"intracellular localization","transcription, altered; transcription, inhibited","","","localization"
+-0.0185879,0.579285,0.941712,"FOXO1_T478_M1","FOXO1_T478","FOXO1","T478_M1","T478","M1",0,NA,NA,NA,NA,NA
+-1.15609,-0.66919,-0.890259,"FOXO3_S12_M1","FOXO3_S12","FOXO3","S12_M1","S12","M1",0,"","transcription, induced","","",NA
+-0.893086,-0.869809,-1.36992,"FOXO3_S12_M2","FOXO3_S12","FOXO3","S12_M2","S12","M2",0,"","transcription, induced","","",NA
+1.4917,1.82023,2.04986,"FOXO3_S43_M1","FOXO3_S43","FOXO3","S43_M1","S43","M1",0,NA,NA,NA,NA,NA
+1.57425,0.767215,2.93211,"FOXO3_S43_M2","FOXO3_S43","FOXO3","S43_M2","S43","M2",0,NA,NA,NA,NA,NA
+1.31895,NA,-0.350673,"FOXO3_S7_M1","FOXO3_S7","FOXO3","S7_M1","S7","M1",1,"intracellular localization","cell cycle regulation","","","localization"
+-0.893086,-0.869809,-1.36992,"FOXO3_S7_M2","FOXO3_S7","FOXO3","S7_M2","S7","M2",0,"intracellular localization","cell cycle regulation","","","localization"
+1.57425,0.767215,2.93061,"FOXO3_T32_M2","FOXO3_T32","FOXO3","T32_M2","T32","M2",0,"activity, induced; molecular association, regulation; intracellular localization; activity, inhibited","signaling pathway regulation; transcription, altered","14-3-3 beta(INDUCES)","DNA(INDUCES)","both"
+0.278535,0.0258189,0.0946536,"GAB1_S266_M1","GAB1_S266","GAB1","S266_M1","S266","M1",0,NA,NA,NA,NA,NA
+-0.014799,-0.852143,-1.13398,"GAB1_S274_M1","GAB1_S274","GAB1","S274_M1","S274","M1",0,NA,NA,NA,NA,NA
+0.577481,0.0579829,0.0808991,"GAB1_S355_M1","GAB1_S355","GAB1","S355_M1","S355","M1",0,NA,NA,NA,NA,NA
+0.504691,0.177296,0.457663,"GAB1_S381_M1","GAB1_S381","GAB1","S381_M1","S381","M1",0,NA,NA,NA,NA,NA
+NA,NA,0.219473,"GAB1_S419_M1","GAB1_S419","GAB1","S419_M1","S419","M1",0,NA,NA,NA,NA,NA
+0.247797,0.476243,0.341772,"GAB1_S454_M1","GAB1_S454","GAB1","S454_M1","S454","M1",0,NA,NA,NA,NA,NA
+-2.12474,-0.985588,-1.18666,"GAB1_S454_M2","GAB1_S454","GAB1","S454_M2","S454","M2",0,NA,NA,NA,NA,NA
+0.376046,-1.17761,0.136573,"GAB1_S551_M1","GAB1_S551","GAB1","S551_M1","S551","M1",0,NA,NA,NA,NA,NA
+-2.6267,NA,NA,"GAB1_T289_M2","GAB1_T289","GAB1","T289_M2","T289","M2",0,NA,NA,NA,NA,NA
+-6.74446,NA,-6.89069,"GAB1_T434_M1","GAB1_T434","GAB1","T434_M1","T434","M1",1,NA,NA,NA,NA,NA
+0.592779,0.767656,0.27782,"GAB1_T503_M1","GAB1_T503","GAB1","T503_M1","T503","M1",0,NA,NA,NA,NA,NA
+-2.6267,NA,NA,"GAB1_Y285_M2","GAB1_Y285","GAB1","Y285_M2","Y285","M2",0,NA,NA,NA,NA,NA
+-0.518916,-1.72233,-0.248057,"GAB1_Y373_M1","GAB1_Y373","GAB1","Y373_M1","Y373","M1",0,"molecular association, regulation","","CDK6(INDUCES)","","molecular association"
+-2.14317,-0.866812,NA,"GAB1_Y447_M2","GAB1_Y447","GAB1","Y447_M2","Y447","M2",0,"molecular association, regulation","","SHP-2(INDUCES); PIK3R1(INDUCES)","","molecular association"
+-0.0737258,NA,NA,"GAB1_Y627_M1","GAB1_Y627","GAB1","Y627_M1","Y627","M1",0,"molecular association, regulation; phosphorylation","cell cycle regulation","SYP(INDUCES); SHP-2(INDUCES); PIK3R1(INDUCES)","","molecular association"
+-0.218687,-0.362399,0.92242,"GAB1_Y659_M1","GAB1_Y659","GAB1","Y659_M1","Y659","M1",0,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell motility, induced","SHP-2(INDUCES)","","molecular association"
+0.560658,-0.588482,0.428879,"GAB2_S140_M1","GAB2_S140","GAB2","S140_M1","S140","M1",0,NA,NA,NA,NA,NA
+0.325259,0.277845,0.278053,"GAB2_S368_M1","GAB2_S368","GAB2","S368_M1","S368","M1",0,NA,NA,NA,NA,NA
+0.663832,-1.14594,-0.0351161,"GAB2_S543_M1","GAB2_S543","GAB2","S543_M1","S543","M1",0,NA,NA,NA,NA,NA
+0.520454,NA,0.478083,"GAB2_S623_M1","GAB2_S623","GAB2","S623_M1","S623","M1",1,"molecular association, regulation","","SHP-2(DISRUPTS)","","molecular association"
+-0.120841,-0.604559,-0.202891,"GAB2_Y452_M1","GAB2_Y452","GAB2","Y452_M1","Y452","M1",0,"molecular association, regulation","","PIK3R1(INDUCES)","","molecular association"
+-0.589943,0.157946,0.15094,"GSK3A_S85_M1","GSK3A_S85","GSK3A","S85_M1","S85","M1",0,NA,NA,NA,NA,NA
+0.440792,0.427608,0.581424,"GSK3A_Y279_M1","GSK3A_Y279","GSK3A","Y279_M1","Y279","M1",0,"enzymatic activity, induced","apoptosis, altered","","","activates"
+0.641166,0.233492,0.346059,"GYS1_S412_M1","GYS1_S412","GYS1","S412_M1","S412","M1",0,NA,NA,NA,NA,NA
+-1.53479,-0.479059,-0.957997,"GYS1_S641_M2","GYS1_S641","GYS1","S641_M2","S641","M2",0,"enzymatic activity, inhibited; activity, inhibited","signaling pathway regulation","","","inhibits"
+1.137,NA,-0.440611,"GYS1_S645_M1","GYS1_S645","GYS1","S645_M1","S645","M1",0,"enzymatic activity, inhibited; activity, inhibited","signaling pathway regulation","","","inhibits"
+-0.787496,-0.4618,-0.84735,"GYS1_S645_M2","GYS1_S645","GYS1","S645_M2","S645","M2",0,"enzymatic activity, inhibited; activity, inhibited","signaling pathway regulation","","","inhibits"
+-1.78152,NA,NA,"GYS1_S653_M2","GYS1_S653","GYS1","S653_M2","S653","M2",0,"activity, inhibited","","","","inhibits"
+-1.78152,NA,NA,"GYS1_S657_M2","GYS1_S657","GYS1","S657_M2","S657","M2",0,"activity, inhibited","","","","inhibits"
+0.568672,0.644464,1.15124,"GYS1_S710_M1","GYS1_S710","GYS1","S710_M1","S710","M1",0,NA,NA,NA,NA,NA
+-0.844036,-5.38659,NA,"GYS1_S727_M1","GYS1_S727","GYS1","S727_M1","S727","M1",0,"phosphorylation","","","",NA
+0.642162,0.428728,0.369311,"IKBKB_S672_M1","IKBKB_S672","IKBKB","S672_M1","S672","M1",1,NA,NA,NA,NA,NA
+NA,NA,-2.2312,"IKBKB_S697_M1","IKBKB_S697","IKBKB","S697_M1","S697","M1",0,NA,NA,NA,NA,NA
+0.914537,-0.405865,1.62011,"MAP2K1_T286_M1","MAP2K1_T286","MAP2K1","T286_M1","T286","M1",0,"enzymatic activity, inhibited; phosphorylation","signaling pathway regulation","","","inhibits"
+-1.63752,-2.21616,-2.01516,"MAP2K1_T386_M1","MAP2K1_T386","MAP2K1","T386_M1","T386","M1",0,"molecular association, regulation; intracellular localization","","ERK2(INDUCES)","","molecular association"
+NA,3.75772,2.93057,"MAP2K2_S222_M1","MAP2K2_S222","MAP2K2","S222_M1","S222","M1",0,"enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; signaling pathway regulation","","","activates"
+-0.596577,-0.980454,-1.69848,"MAP2K2_S226_M1","MAP2K2_S226","MAP2K2","S226_M1","S226","M1",0,"enzymatic activity, induced","signaling pathway regulation","","","activates"
+0.310609,NA,NA,"MAP2K2_S23_M1","MAP2K2_S23","MAP2K2","S23_M1","S23","M1",0,NA,NA,NA,NA,NA
+-4.14043,NA,-1.88501,"MAP2K2_S293_M2","MAP2K2_S293","MAP2K2","S293_M2","S293","M2",0,NA,NA,NA,NA,NA
+-0.0695633,-0.756273,-0.315166,"MAP2K2_S295_M1","MAP2K2_S295","MAP2K2","S295_M1","S295","M1",0,NA,NA,NA,NA,NA
+-4.14043,NA,-1.88501,"MAP2K2_S295_M2","MAP2K2_S295","MAP2K2","S295_M2","S295","M2",0,NA,NA,NA,NA,NA
+-0.985483,-1.08953,-0.869623,"MAP2K2_S306_M1","MAP2K2_S306","MAP2K2","S306_M1","S306","M1",1,"molecular association, regulation; protein conformation","carcinogenesis, induced; cell motility, induced; cell adhesion, induced","Akt1(INDUCES)","","molecular association"
+0.561566,-0.116504,0.212684,"MAP2K2_T394_M1","MAP2K2_T394","MAP2K2","T394_M1","T394","M1",0,"phosphorylation; enzymatic activity, induced","","","","activates"
+-0.818893,-2.17947,-0.124714,"MAPK1_Y187_M1","MAPK1_Y187","MAPK1","Y187_M1","Y187","M1",1,"activity, induced; protein degradation; molecular association, regulation; intracellular localization; protein conformation; phosphorylation; enzymatic activity, induced","cell differentiation, inhibited; cell cycle regulation; carcinogenesis, induced; apoptosis, altered; cell motility, induced; transcription, induced; transcription, altered; signaling pathway regulation; cell growth, induced; cell differentiation, induced; cell motility, altered; cytoskeletal reorganization; transcription, inhibited; cell growth, altered","G-beta 1(INDUCES); leupaxin(NOT_REPORTED); GSK3B(INDUCES); p90RSK(INDUCES); KSR(INDUCES); NFkB-p100(DISRUPTS); ERK2(INDUCES); TACE(INDUCES)","","activates"
+-5.9272,NA,-1.09648,"MAPK3_T202_M2","MAPK3_T202","MAPK3","T202_M2","T202","M2",0,"activity, induced; protein degradation; molecular association, regulation; intracellular localization; protein conformation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; apoptosis, altered; apoptosis, induced; cell motility, induced; cell motility, inhibited; signaling pathway regulation; cell growth, induced; cell motility, altered; transcription, inhibited; cell growth, altered; cell differentiation, inhibited; carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; transcription, altered; autophagy, induced; cell differentiation, induced; apoptosis, inhibited; autophagy, inhibited; cytoskeletal reorganization","TACE(INDUCES); leupaxin(NOT_REPORTED); GSK3B(INDUCES); KSR(INDUCES)","","activates"
+-5.8976,NA,-1.01736,"MAPK3_T207_M2","MAPK3_T207","MAPK3","T207_M2","T207","M2",0,"enzymatic activity, inhibited","","","","inhibits"
+-0.939817,-2.61136,-0.238913,"MAPK3_Y204_M1","MAPK3_Y204","MAPK3","Y204_M1","Y204","M1",0,"activity, induced; protein degradation; molecular association, regulation; intracellular localization; protein conformation; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; apoptosis, altered; apoptosis, induced; cell motility, induced; cell motility, inhibited; signaling pathway regulation; cell growth, induced; cell motility, altered; transcription, inhibited; cell growth, altered; cell differentiation, inhibited; carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; transcription, altered; autophagy, induced; cell differentiation, induced; apoptosis, inhibited; autophagy, inhibited; cytoskeletal reorganization","TACE(INDUCES); ERK2(INDUCES); leupaxin(NOT_REPORTED); GSK3B(INDUCES); KSR(INDUCES)","","activates"
+-1.77207,-1.38704,-0.720955,"MDM2_S166_M1","MDM2_S166","MDM2","S166_M1","S166","M1",0,"activity, induced; protein degradation; protein stabilization; molecular association, regulation; ubiquitination; intracellular localization; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; apoptosis, altered; apoptosis, induced; transcription, induced; signaling pathway regulation; translation, altered; cell growth, induced; translation, induced","p53(INDUCES); p300(INDUCES); ARF1(INDUCES)","RNA(INDUCES)","activates"
+2.75215,0.768524,NA,"MKNK1_S221_M1","MKNK1_S221","MKNK1","S221_M1","S221","M1",0,NA,NA,NA,NA,NA
+-0.610866,-1.29687,-1.42168,"MKNK1_S221_M2","MKNK1_S221","MKNK1","S221_M2","S221","M2",0,NA,NA,NA,NA,NA
+-0.610866,-1.29687,-1.42168,"MKNK1_S226_M2","MKNK1_S226","MKNK1","S226_M2","S226","M2",0,NA,NA,NA,NA,NA
+-0.0103952,0.207344,0.319495,"MTOR_S2448_M1","MTOR_S2448","MTOR","S2448_M1","S2448","M1",0,"intracellular localization; phosphorylation; enzymatic activity, induced","cell cycle regulation; carcinogenesis, induced; cell motility, induced; transcription, induced; transcription, altered; signaling pathway regulation; cell growth, induced; apoptosis, inhibited; autophagy, inhibited; translation, induced","","","activates"
+0.390298,NA,NA,"MTOR_S2450_M1","MTOR_S2450","MTOR","S2450_M1","S2450","M1",0,NA,NA,NA,NA,NA
+-1.39464,-0.826055,-0.533472,"MTOR_S2450_M2","MTOR_S2450","MTOR","S2450_M2","S2450","M2",0,NA,NA,NA,NA,NA
+-1.39464,-0.826055,-0.533472,"MTOR_S2454_M2","MTOR_S2454","MTOR","S2454_M2","S2454","M2",0,NA,NA,NA,NA,NA
+-1.57718,-0.900449,-1.31765,"MTOR_S2478_M2","MTOR_S2478","MTOR","S2478_M2","S2478","M2",0,NA,NA,NA,NA,NA
+-1.57718,-0.900449,-1.31765,"MTOR_S2481_M2","MTOR_S2481","MTOR","S2481_M2","S2481","M2",0,"phosphorylation; enzymatic activity, induced","cell cycle regulation; autophagy, inhibited; transcription, altered","","","activates"
+0.619709,0.480205,0.235509,"NFKB1_S893_M1","NFKB1_S893","NFKB1","S893_M1","S893","M1",0,"activity, induced; protein processing","","","","activates"
+NA,-0.216014,NA,"NFKB1_S903_M2","NFKB1_S903","NFKB1","S903_M2","S903","M2",0,"protein stabilization","","","",NA
+1.08555,0.242142,0.551261,"NFKB1_S907_M1","NFKB1_S907","NFKB1","S907_M1","S907","M1",0,"activity, induced; protein stabilization; protein processing","","","","activates"
+NA,-0.216014,NA,"NFKB1_S907_M2","NFKB1_S907","NFKB1","S907_M2","S907","M2",0,"activity, induced; protein stabilization; protein processing","","","","activates"
+1.03469,4.37934,NA,"NFKB1_S937_M1","NFKB1_S937","NFKB1","S937_M1","S937","M1",0,NA,NA,NA,NA,NA
+0.717016,0.449311,0.781604,"PDPK1_S241_M1","PDPK1_S241","PDPK1","S241_M1","S241","M1",0,"molecular association, regulation; phosphorylation; enzymatic activity, induced","carcinogenesis, induced; cell growth, induced; apoptosis, inhibited","14-3-3 theta(INDUCES); 14-3-3 eta(INDUCES)","","activates"
+NA,0.529721,NA,"PDPK1_S25_M1","PDPK1_S25","PDPK1","S25_M1","S25","M1",0,NA,NA,NA,NA,NA
+0.599773,0.536152,0.308589,"PIK3R1_S154_M1","PIK3R1_S154","PIK3R1","S154_M1","S154","M1",0,"activity, induced; molecular association, regulation; intracellular localization","cell motility, inhibited","PTEN(INDUCES)","","activates"
+0.0174784,0.297536,0.711871,"RAF1_S244_M1","RAF1_S244","RAF1","S244_M1","S244","M1",1,NA,NA,NA,NA,NA
+0.51062,0.412516,0.626593,"RAF1_S259_M1","RAF1_S259","RAF1","S259_M1","S259","M1",0,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, induced; apoptosis, altered; cell motility, induced; transcription, induced; cell growth, induced; apoptosis, inhibited; cell growth, altered","14-3-3 beta(INDUCES); 14-3-3 theta(INDUCES); 14-3-3 zeta(INDUCES); MST2(INDUCES); HRas(DISRUPTS); PPP2CB(DISRUPTS)","","inhibits"
+NA,0.294737,NA,"RAF1_S296_M1","RAF1_S296","RAF1","S296_M1","S296","M1",0,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; enzymatic activity, induced","","HRas(DISRUPTS)","","both"
+-1.00393,-1.87171,-6.61694,"RAF1_S296_M2","RAF1_S296","RAF1","S296_M2","S296","M2",0,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; enzymatic activity, induced","","HRas(DISRUPTS)","","both"
+-0.116877,-0.929913,-0.702084,"RAF1_S301_M1","RAF1_S301","RAF1","S301_M1","S301","M1",0,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; enzymatic activity, induced","","HRas(DISRUPTS)","","both"
+-1.00393,-1.87171,-6.61694,"RAF1_S301_M2","RAF1_S301","RAF1","S301_M2","S301","M2",0,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited; enzymatic activity, induced","","HRas(DISRUPTS)","","both"
+0.641556,-0.0955585,1.31149,"RAF1_S357_M1","RAF1_S357","RAF1","S357_M1","S357","M1",0,NA,NA,NA,NA,NA
+NA,-0.463902,NA,"RAF1_S497_M1","RAF1_S497","RAF1","S497_M1","S497","M1",1,"enzymatic activity, induced","","","","activates"
+-0.577946,-4.37018,-4.52968,"RAF1_S642_M1","RAF1_S642","RAF1","S642_M1","S642","M1",0,"molecular association, regulation; intracellular localization; enzymatic activity, inhibited","","HRas(DISRUPTS)","","inhibits"
+NA,0.909806,0.312027,"RAF1_T242_M1","RAF1_T242","RAF1","T242_M1","T242","M1",1,NA,NA,NA,NA,NA
+NA,NA,-1.38389,"RAF1_T641_M1","RAF1_T641","RAF1","T641_M1","T641","M1",1,NA,NA,NA,NA,NA
+NA,3.52635,0.635573,"RICTOR_S1219_M1","RICTOR_S1219","RICTOR","S1219_M1","S1219","M1",0,NA,NA,NA,NA,NA
+NA,-0.406423,-0.182617,"RICTOR_S1235_M1","RICTOR_S1235","RICTOR","S1235_M1","S1235","M1",0,NA,NA,NA,NA,NA
+0.66312,0.323974,0.15595,"RICTOR_S1396_M1","RICTOR_S1396","RICTOR","S1396_M1","S1396","M1",0,NA,NA,NA,NA,NA
+0.175573,-0.619713,-0.12693,"RICTOR_S1591_M1","RICTOR_S1591","RICTOR","S1591_M1","S1591","M1",0,NA,NA,NA,NA,NA
+0.385885,0.155976,0.841097,"RICTOR_S21_M1","RICTOR_S21","RICTOR","S21_M1","S21","M1",0,NA,NA,NA,NA,NA
+0.404652,0.460666,0.300846,"RPS6KA1_S221_M1","RPS6KA1_S221","RPS6KA1","S221_M1","S221","M1",0,NA,NA,NA,NA,NA
+0.37149,-1.06295,0.622768,"RPS6KA1_S363_M1","RPS6KA1_S363","RPS6KA1","S363_M1","S363","M1",0,"enzymatic activity, induced","","","","activates"
+-1.49875,-3.36706,-2.04724,"RPS6KA1_S363_M2","RPS6KA1_S363","RPS6KA1","S363_M2","S363","M2",0,"enzymatic activity, induced","","","","activates"
+-1.49897,-3.3674,-2.04756,"RPS6KA1_S369_M2","RPS6KA1_S369","RPS6KA1","S369_M2","S369","M2",0,NA,NA,NA,NA,NA
+-0.583515,-1.35476,-0.864482,"RPS6KA1_S380_M1","RPS6KA1_S380","RPS6KA1","S380_M1","S380","M1",0,"protein degradation; ubiquitination; phosphorylation","signaling pathway regulation","","",NA
+-2.316,-2.4688,-2.42022,"RPS6KA1_T359_M2","RPS6KA1_T359","RPS6KA1","T359_M2","T359","M2",0,"enzymatic activity, induced","","","","activates"
+-2.99402,NA,-0.991889,"RPS6KB1_S447_M2","RPS6KB1_S447","RPS6KB1","S447_M2","S447","M2",0,"activity, induced; molecular association, regulation; enzymatic activity, induced","cell cycle regulation; cell adhesion, altered","Tau iso8(NOT_REPORTED)","","activates"
+-2.99402,NA,-0.991889,"RPS6KB1_S452_M2","RPS6KB1_S452","RPS6KB1","S452_M2","S452","M2",0,NA,NA,NA,NA,NA
+NA,0.453748,0.613369,"RPTOR_S722_M1","RPTOR_S722","RPTOR","S722_M1","S722","M1",1,"","cell cycle regulation; autophagy, induced; transcription, altered","","",NA
+-0.820673,-0.679371,-0.763693,"RPTOR_S859_M2","RPTOR_S859","RPTOR","S859_M2","S859","M2",0,"molecular association, regulation","signaling pathway regulation","mTOR(INDUCES); 4E-BP1(DISRUPTS)","","molecular association"
+0.303059,0.0798934,0.645897,"RPTOR_S863_M1","RPTOR_S863","RPTOR","S863_M1","S863","M1",0,"activity, induced; molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced; phosphorylation","cell cycle regulation","RAG1(DISRUPTS)","","activates"
+-0.909428,-0.667947,-0.738975,"RPTOR_S863_M2","RPTOR_S863","RPTOR","S863_M2","S863","M2",0,"activity, induced; molecular association, regulation; intracellular localization; protein conformation; enzymatic activity, induced; phosphorylation","cell cycle regulation","RAG1(DISRUPTS)","","activates"
+0.196118,-0.0654385,-0.355812,"RPTOR_S877_M1","RPTOR_S877","RPTOR","S877_M1","S877","M1",0,"enzymatic activity, inhibited","cell cycle regulation","","","inhibits"
+-2.21384,-1.29313,-1.27368,"USP7_S18_M1","USP7_S18","USP7","S18_M1","S18","M1",0,"protein stabilization; enzymatic activity, induced","cell cycle regulation; DNA repair, inhibited; signaling pathway regulation","","","activates"
+0.595961,0.310741,0.418345,"USP7_S963_M1","USP7_S963","USP7","S963_M1","S963","M1",0,NA,NA,NA,NA,NA
+1.16494,0.725911,0.976604,"YAP1_S109_M1","YAP1_S109","YAP1","S109_M1","S109","M1",0,"protein degradation; intracellular localization","cell growth, induced; cell growth, inhibited; apoptosis, induced; cell motility, altered; transcription, inhibited","","","localization"
+1.16494,0.725911,0.976604,"YAP1_S109_M1","YAP1_S109","YAP1","S109_M1","S109","M1",0,"activity, inhibited","cell differentiation, induced; cell growth, inhibited; transcription, inhibited","","","inhibits"
+0.715744,0.464827,-0.166243,"YAP1_S127_M1","YAP1_S127","YAP1","S127_M1","S127","M1",1,"activity, induced; protein degradation; molecular association, regulation; intracellular localization; activity, inhibited","carcinogenesis, inhibited; cell differentiation, induced; cell growth, inhibited; transcription, inhibited","14-3-3 beta(INDUCES)","","both"
+0.715744,0.464827,-0.166243,"YAP1_S127_M1","YAP1_S127","YAP1","S127_M1","S127","M1",1,"activity, induced; protein degradation; molecular association, regulation; ubiquitination; intracellular localization; activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, induced; apoptosis, altered; cell motility, induced; apoptosis, induced; cell motility, inhibited; signaling pathway regulation; cell differentiation, altered; cell growth, induced; cell motility, altered; transcription, inhibited; cell growth, altered; cell differentiation, inhibited; carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; transcription, altered; autophagy, induced; cell differentiation, induced; apoptosis, inhibited; cell adhesion, altered","14-3-3 sigma(INDUCES); 14-3-3 zeta(INDUCES); 14-3-3 eta(INDUCES); p73(DISRUPTS); 14-3-3 beta(INDUCES); 53BP2(INDUCES); TEAD1(DISRUPTS); AML2(INDUCES); CTNNB1(INDUCES)","DNA(DISRUPTS)","both"
+0.715744,0.464827,-0.166243,"YAP1_S127_M1","YAP1_S127","YAP1","S127_M1","S127","M1",1,"intracellular localization","","","","localization"
+-0.0857715,0.0111861,-1.29035,"YAP1_S127_M2","YAP1_S127","YAP1","S127_M2","S127","M2",0,"activity, induced; protein degradation; molecular association, regulation; intracellular localization; activity, inhibited","carcinogenesis, inhibited; cell differentiation, induced; cell growth, inhibited; transcription, inhibited","14-3-3 beta(INDUCES)","","both"
+-0.0857715,0.0111861,-1.29035,"YAP1_S127_M2","YAP1_S127","YAP1","S127_M2","S127","M2",0,"activity, induced; protein degradation; molecular association, regulation; ubiquitination; intracellular localization; activity, inhibited; phosphorylation","cell cycle regulation; carcinogenesis, induced; apoptosis, altered; cell motility, induced; apoptosis, induced; cell motility, inhibited; signaling pathway regulation; cell differentiation, altered; cell growth, induced; cell motility, altered; transcription, inhibited; cell growth, altered; cell differentiation, inhibited; carcinogenesis, inhibited; cell growth, inhibited; transcription, induced; transcription, altered; autophagy, induced; cell differentiation, induced; apoptosis, inhibited; cell adhesion, altered","14-3-3 sigma(INDUCES); 14-3-3 zeta(INDUCES); 14-3-3 eta(INDUCES); p73(DISRUPTS); 14-3-3 beta(INDUCES); 53BP2(INDUCES); TEAD1(DISRUPTS); AML2(INDUCES); CTNNB1(INDUCES)","DNA(DISRUPTS)","both"
+-0.0857715,0.0111861,-1.29035,"YAP1_S127_M2","YAP1_S127","YAP1","S127_M2","S127","M2",0,"intracellular localization","","","","localization"
+-0.294495,-0.593979,-1.02226,"YAP1_S138_M2","YAP1_S138","YAP1","S138_M2","S138","M2",0,"molecular association, regulation; intracellular localization","cell cycle regulation; apoptosis, inhibited","TEAD4(DISRUPTS)","","molecular association"
+-0.294495,-0.593979,-1.02226,"YAP1_S138_M2","YAP1_S138","YAP1","S138_M2","S138","M2",0,"molecular association, regulation","apoptosis, inhibited; transcription, induced","TEAD1(INDUCES)","","molecular association"
+0.0149482,0.178124,0.206751,"YAP1_S149_M2","YAP1_S149","YAP1","S149_M2","S149","M2",0,NA,NA,NA,NA,NA
+NA,NA,0.451601,"YAP1_S164_M1","YAP1_S164","YAP1","S164_M1","S164","M1",0,"","cell growth, induced; cell growth, inhibited; apoptosis, induced; cell motility, altered; transcription, inhibited","","",NA
+NA,NA,0.451601,"YAP1_S164_M1","YAP1_S164","YAP1","S164_M1","S164","M1",0,"activity, inhibited","cell differentiation, induced; cell growth, inhibited; transcription, inhibited","","","inhibits"
+-0.106273,0.0844481,0.245139,"YAP1_S289_M1","YAP1_S289","YAP1","S289_M1","S289","M1",0,"molecular association, regulation","cell cycle regulation; carcinogenesis, induced; cell motility, induced; apoptosis, inhibited; cytoskeletal reorganization","TEAD4(DISRUPTS)","","molecular association"
+0.0429532,-0.235331,0.738121,"YAP1_S367_M1","YAP1_S367","YAP1","S367_M1","S367","M1",0,"molecular association, regulation; intracellular localization","cell cycle regulation; carcinogenesis, induced; cell motility, induced; apoptosis, inhibited; cytoskeletal reorganization","TEAD4(DISRUPTS)","","molecular association"
+NA,0.249998,NA,"YAP1_S382_M1","YAP1_S382","YAP1","S382_M1","S382","M1",0,NA,NA,NA,NA,NA
+0.7695,-0.149492,0.3074,"YAP1_S397_M1","YAP1_S397","YAP1","S397_M1","S397","M1",0,"protein degradation; ubiquitination; intracellular localization","cell differentiation, inhibited; carcinogenesis, induced; carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, induced; cell growth, induced; cell motility, altered; transcription, inhibited","","","localization"
+-1.76293,NA,-6.15214,"YAP1_S397_M2","YAP1_S397","YAP1","S397_M2","S397","M2",0,"protein degradation; ubiquitination; intracellular localization","cell differentiation, inhibited; carcinogenesis, induced; carcinogenesis, inhibited; cell growth, inhibited; apoptosis, induced; transcription, induced; cell growth, induced; cell motility, altered; transcription, inhibited","","","localization"
+-1.04035,-2.61436,-2.43674,"YAP1_S61_M1","YAP1_S61","YAP1","S61_M1","S61","M1",1,"activity, inhibited","cell differentiation, induced; cell growth, inhibited; transcription, inhibited","","","inhibits"
+-1.04035,-2.61436,-2.43674,"YAP1_S61_M1","YAP1_S61","YAP1","S61_M1","S61","M1",1,"intracellular localization; activity, inhibited","cell growth, induced; cell growth, inhibited; apoptosis, induced; cell motility, altered; cytoskeletal reorganization; transcription, inhibited","","","inhibits"
+0.558456,0.599047,0.633273,"YAP1_T114_M2","YAP1_T114","YAP1","T114_M2","T114","M2",0,NA,NA,NA,NA,NA
+0.558456,0.599047,0.633273,"YAP1_T119_M2","YAP1_T119","YAP1","T119_M2","T119","M2",0,"","cell cycle regulation; carcinogenesis, induced; cell motility, induced; cytoskeletal reorganization","","",NA
+NA,-0.393184,NA,"YAP1_T143_M2","YAP1_T143","YAP1","T143_M2","T143","M2",0,"intracellular localization","cell cycle regulation","","","localization"
+NA,-0.621551,NA,"YAP1_T145_M2","YAP1_T145","YAP1","T145_M2","T145","M2",0,NA,NA,NA,NA,NA
+NA,NA,-3.08148,"YAP1_T398_M2","YAP1_T398","YAP1","T398_M2","T398","M2",0,NA,NA,NA,NA,NA
+-0.971716,-1.42636,0.129002,"YAP1_T412_M1","YAP1_T412","YAP1","T412_M1","T412","M1",0,NA,NA,NA,NA,NA

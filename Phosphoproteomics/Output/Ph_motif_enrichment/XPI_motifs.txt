@@ -1,0 +1,15 @@
+Selection column	Selection value	Category column	Category value	Total size	Selection size	Category size	Intersection size	Enrichment factor	P value	Benj. Hoch. FDR
+x	1	EARLY UP TRANSITORY	Chk1 kinase substrate motif	9396	990	447	71	1.5075	9.71E-05	0.0016586
+x	2	EARLY DOWN TRANSITORY	Src kinase substrate motif	9396	1224	158	33	1.6033	0.0017411	0.017569
+x	2	EARLY DOWN TRANSITORY	b-Adrenergic Receptor kinase substrate motif	9396	1224	1079	213	1.5154	1.13E-11	1.79E-09
+x	5	EARLY UP 30m	Calmodulin-dependent protein kinase I substrate motif	9396	1348	125	32	1.7844	0.00033078	0.0047684
+x	7	EARLY DOWN 30m	BARD1 BRCT domain binding motif	9396	861	153	55	3.9229	3.80E-20	4.21E-17
+x	7	EARLY DOWN 30m	Casein kinase I substrate motif	9396	861	968	146	1.646	1.03E-10	1.38E-08
+x	7	EARLY DOWN 30m	Pyruvate dehydrogenase kinase substrate motif	9396	861	512	73	1.5559	3.22E-05	0.00065612
+x	8	EARLY UP 2h	Akt kinase substrate motif	9396	765	327	50	1.878	4.85E-06	0.00014158
+x	8	EARLY UP 2h	MAPKAPK1 kinase substrate motif	9396	765	373	57	1.8769	1.15E-06	4.00E-05
+x	9	LATE DOWN	CDK5 kinase substrate motif	9396	1131	76	23	2.5142	1.24E-05	0.00030597
+x	9	LATE DOWN	"CDK1,2,4,6 kinase substrate motif"	9396	1131	743	162	1.8114	1.61E-15	7.66E-13
+x	9	LATE DOWN	Cdc2 kinase substrate motif	9396	1131	745	162	1.8065	2.07E-15	7.66E-13
+x	9	LATE DOWN	"GSK3, Erk1, Erk2 and CDK5 kinase motif"	9396	1131	206	43	1.7341	9.59E-05	0.0016586
+x	9	LATE DOWN	CDK kinase substrate motif	9396	1131	609	126	1.7188	1.12E-10	1.38E-08

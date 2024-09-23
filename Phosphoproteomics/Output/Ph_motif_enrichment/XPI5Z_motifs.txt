@@ -1,0 +1,27 @@
+Selection column	Selection value	Category column	Category value	Total size	Selection size	Category size	Intersection size	Enrichment factor	P value	Benj. Hoch. FDR
+x	1	EARLY UP TRANSITORY	"ERK1, ERK2, SAPK, CDK5 and GSK3 kinase substrate motif"	11246	1153	37	13	3.427	3.54E-05	0.0004579
+x	2	EARLY DOWN TRANSITORY	Src kinase substrate motif	11246	778	186	25	1.9429	0.00057861	0.0052394
+x	3	EARLY DOWN 2h	CDK5 kinase substrate motif	11246	902	77	21	3.4003	3.19E-07	6.01E-06
+x	3	EARLY DOWN 2h	"GSK3, Erk1, Erk2 and CDK5 kinase motif"	11246	902	215	35	2.0296	2.42E-05	0.00033573
+x	3	EARLY DOWN 2h	"CDK1,2,4,6 kinase substrate motif"	11246	902	860	119	1.7252	5.51E-10	1.81E-08
+x	3	EARLY DOWN 2h	Cdc2 kinase substrate motif	11246	902	862	119	1.7212	6.34E-10	2.02E-08
+x	3	EARLY DOWN 2h	CDK kinase substrate motif	11246	902	717	87	1.5128	2.04E-05	0.00029351
+x	4	EARLY DOWN 30m	BARD1 BRCT domain binding motif	11246	1343	220	94	3.5779	2.37E-31	4.55E-29
+x	4	EARLY DOWN 30m	b-Adrenergic Receptor kinase substrate motif	11246	1343	1386	283	1.7098	1.14E-22	1.31E-20
+x	4	EARLY DOWN 30m	Casein kinase I substrate motif	11246	1343	1226	235	1.6051	2.55E-15	1.47E-13
+x	4	EARLY DOWN 30m	Pyruvate dehydrogenase kinase substrate motif	11246	1343	669	120	1.502	8.26E-07	1.44E-05
+x	5	LATE DOWN	CDK kinase substrate motif	11246	1232	717	183	2.3298	2.56E-30	4.20E-28
+x	5	LATE DOWN	"CDK1,2,4,6 kinase substrate motif"	11246	1232	860	209	2.2184	1.65E-31	4.55E-29
+x	5	LATE DOWN	Cdc2 kinase substrate motif	11246	1232	862	209	2.2132	2.34E-31	4.55E-29
+x	6	LATE UP	AMP-activated protein kinase substrate motif	11246	1630	251	66	1.8142	3.05E-07	5.84E-06
+x	6	LATE UP	p70 Ribosomal S6 kinase substrate motif	11246	1630	92	24	1.7998	0.0013708	0.011102
+x	6	LATE UP	Calmodulin-dependent protein kinase I substrate motif	11246	1630	140	33	1.6263	0.0013281	0.010909
+x	6	LATE UP	Phosphorylase kinase substrate motif	11246	1630	448	99	1.5246	2.91E-06	4.71E-05
+x	7	EARLY UP 30m	Calmodulin-dependent protein kinase I substrate motif	11246	1833	140	40	1.7529	9.31E-05	0.0010396
+x	7	EARLY UP 30m	AMP-activated protein kinase substrate motif	11246	1833	251	64	1.5644	5.11E-05	0.00061166
+x	10	EARLY DOWN TRANSITORY	3BP2 SH2 domain binding motif	11246	869	11	5	5.8824	0.00077926	0.006789
+x	10	EARLY DOWN TRANSITORY	Plk1 kinase substrate motif	11246	869	30	9	3.8824	0.00025367	0.0025589
+x	10	EARLY DOWN TRANSITORY	BARD1 BRCT domain binding motif	11246	869	220	40	2.353	1.74E-07	3.57E-06
+x	10	EARLY DOWN TRANSITORY	Pyruvate dehydrogenase kinase substrate motif	11246	869	669	90	1.741	4.85E-08	1.14E-06
+x	10	EARLY DOWN TRANSITORY	b-Adrenergic Receptor kinase substrate motif	11246	869	1386	175	1.634	2.91E-12	1.24E-10
+x	10	EARLY DOWN TRANSITORY	Casein kinase I substrate motif	11246	869	1226	144	1.52	3.72E-08	8.91E-07

@@ -1,0 +1,28 @@
+Change_type,Grouped_changes_I
+Down_Down_Unaffected,Single drug-specific
+Up_Down_Unaffected,Leveled-out responses
+Up_Up_Unaffected,Single drug-specific
+Down_Down_Down,Same in all
+Down_Down_Up,Synergy-specific
+Up_Up_Down,Synergy-specific
+Down_Unaffected_Up,Synergy-specific
+Unaffected_Down_Up,Synergy-specific
+Unaffected_Up_Down,Synergy-specific
+Up_Unaffected_Down,Synergy-specific
+Down_Up_Unaffected,Leveled-out responses
+Down_Up_Up,Single drug-driven
+Unaffected_Down_Down,Single drug-driven
+Unaffected_Up_Up,Single drug-driven
+Up_Down_Down,Single drug-driven
+Unaffected_Down_Unaffected,Single drug-specific
+Unaffected_Up_Unaffected,Single drug-specific
+Down_Unaffected_Down,Single drug-driven
+Down_Up_Down,Single drug-driven
+Up_Down_Up,Single drug-driven
+Up_Unaffected_Up,Single drug-driven
+Down_Unaffected_Unaffected,Single drug-specific
+Up_Unaffected_Unaffected,Single drug-specific
+Unaffected_Unaffected_Down,Synergy-specific
+Unaffected_Unaffected_Up,Synergy-specific
+Up_Up_Up,Same in all
+Unaffected_Unaffected_Unaffected,Unaffected in all

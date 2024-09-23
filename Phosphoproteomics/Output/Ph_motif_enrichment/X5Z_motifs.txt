@@ -1,0 +1,14 @@
+Selection column	Selection value	Category column	Category value	Total size	Selection size	Category size	Intersection size	Enrichment factor	P value	Benj. Hoch. FDR
+x	1	LATE UP	BARD1 BRCT domain binding motif	9396	859	153	55	3.9321	3.40E-20	3.78E-17
+x	1	LATE UP	Casein kinase I substrate motif	9396	859	968	146	1.6498	8.66E-11	1.07E-08
+x	1	LATE UP	Pyruvate dehydrogenase kinase substrate motif	9396	859	512	72	1.5382	5.11E-05	0.0010316
+x	3	EARLY DOWN 2h	CDK5 kinase substrate motif	9396	1135	76	23	2.5053	1.31E-05	0.00033873
+x	3	EARLY DOWN 2h	"CDK1,2,4,6 kinase substrate motif"	9396	1135	743	163	1.8161	1.00E-15	4.80E-13
+x	3	EARLY DOWN 2h	Cdc2 kinase substrate motif	9396	1135	745	163	1.8113	1.30E-15	4.80E-13
+x	3	EARLY DOWN 2h	"GSK3, Erk1, Erk2 and CDK5 kinase motif"	9396	1135	206	43	1.728	0.00010339	0.001851
+x	3	EARLY DOWN 2h	CDK kinase substrate motif	9396	1135	609	127	1.7264	6.94E-11	9.63E-09
+x	4	EARLY DOWN 2h	Src kinase substrate motif	9396	1225	158	33	1.602	0.0017619	0.018109
+x	4	EARLY DOWN 2h	b-Adrenergic Receptor kinase substrate motif	9396	1225	1079	214	1.5212	6.86E-12	1.09E-09
+x	8	TRANSITORY	MAPKAPK1 kinase substrate motif	9396	772	373	58	1.8925	7.13E-07	2.64E-05
+x	8	TRANSITORY	Akt kinase substrate motif	9396	772	327	50	1.861	6.18E-06	0.00018038
+x	9	TRANSITORY	Calmodulin-dependent protein kinase I substrate motif	9396	1342	125	32	1.7924	0.00030697	0.0046045
