@@ -14,3 +14,9 @@ In all scripts, the following abbreviations have been used for the drugs:
 
 ```PI5Z - PI3K/TAK combination```
 
+The following scripts have been used to prepare the manuscript figures:
+
+```Phosphoproteomics/scr/1_PCAS.R``` - Figure 2B
+```Phosphoproteomics/scr/2_logFC_corr.R``` - Supplementary Figures
+
+(README update in progress..)
