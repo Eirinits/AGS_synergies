@@ -30,4 +30,4 @@ The following scripts have been used to prepare the manuscript figures:
 
 ```Transcriptomis/scr/tr_viz_metabolic_pathway.R``` - Figure 6, Supplementary Figures
 
-NB! All data and scripts will be uploaded to Zenodo upon publications
+NB! All data and scripts will be uploaded to Zenodo upon publication
