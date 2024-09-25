@@ -6,7 +6,7 @@ library(circlize)
 
 DEGs_wide <- read.csv("Transcriptomics/Output/DEGs_wide.csv")
 
-Human.GEM <- readxl::read_xlsx("Transcriptomics/Data/External/Human-GEM.xlsx")
+Human.GEM <- read_csv("Transcriptomics/Data/External/Human-GEM.csv")
 Translation_initiation <- read.delim("Transcriptomics/Data/External/GO_Translation_initiation.tsv")
 
 gene_associations <- Human.GEM %>% 
@@ -28,36 +28,13 @@ for (i in unique(gene_associations$SUBSYSTEM)) {
     column_to_rownames("gene_name") 
   
   colnames(path) <- gsub("logFC_","",colnames(path))
-h <-  Heatmap(path, cluster_rows = F,cluster_columns = F,col = col_fun, name = i)
+h <-  Heatmap(path, cluster_rows = F,cluster_columns = F, name = i)
 print(h)
 }
 dev.off()
 
 sum(unique(gene_associations$Symbol[gene_associations$SUBSYSTEM== "Nucleotide metabolism"]) %in% DEGs_wide$gene_name)
 sum(unique(gene_associations$Symbol[gene_associations$SUBSYSTEM== "Aminoacyl-tRNA biosynthesis"]) %in% DEGs_wide$gene_name)
-
-random_mat = function(nr) {
-  m = matrix(rnorm(10*nr), nc =  15)
-  colnames(m) = letters[1:15]
-  return(m)
-}
-
-y = NULL
-for(nr in c(14, 30)) {
-  ht = draw(Heatmap(random_mat(nr), height = unit(5, "mm")*nr, 
-                    cluster_rows = T, show_row_dend = F, column_split = sample_annot,
-                    cluster_columns = F,col = col_fun, name = "logFC",
-                    rect_gp = gpar(col= "black",lwd = 0.5,
-                  #  column_title = "foo", # one line text
-                    top_annotation = HeatmapAnnotation(bar = 1:15))))
-  ht_height = sum(component_height(ht)) + unit(4, "mm")
-  ht_height = convertHeight(ht_height, "inch", valueOnly = TRUE)
-  y = c(y, ht_height)
-}
-
-
-x = c(14, 30)
-lm(y ~ x)
 
 for(nr in c(10, 20)) {
   png(paste0("test_heatmap_nr_", nr, ".png"), width = 5, height = 0.1969*nr + 1.2744, 

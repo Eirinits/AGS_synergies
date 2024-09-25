@@ -16,8 +16,18 @@ In all scripts, the following abbreviations have been used for the drugs:
 
 The following scripts have been used to prepare the manuscript figures:
 
-```Phosphoproteomics/scr/1_PCAS.R``` - Figure 2B
+```Phosphoproteomics/scr/PCAS.R``` - Figure 2B
 
-```Phosphoproteomics/scr/2_logFC_corr.R``` - Supplementary Figures
+```Phosphoproteomics/scr/logFC_corr.R``` - Supplementary Figures
 
-(README update in progress..)
+```Transcriptomis/scr/PCAs.R``` - Figure 5A
+
+```Transcriptomis/scr/tr_logFC_corr_septp.R``` - Figure 5A
+
+```Transcriptomis/scr/tr_TF_activities_all_ulm.R``` - Figure 5B, 5C, Supplementary Figures
+
+```Transcriptomis/scr/tr_visualize_synergy_DEGs.R``` - Figure 5D
+
+```Transcriptomis/scr/tr_viz_metabolic_pathway.R``` - Figure 6, Supplementary Figures
+
+NB! All data and scripts will be uploaded to Zenodo upon publications

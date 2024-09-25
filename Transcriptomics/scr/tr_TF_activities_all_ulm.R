@@ -79,7 +79,7 @@ ggplot(tf_n, aes(x=Condition, y=count), fill = Drug) +
 #  geom_boxplot()+
   ylab("No. of TFs") +
   facet_grid(~ Drug, scales = "free_x")+
-  facet_grid2(~Drug, scales = "free", strip = strip, labeller=as_labeller(drug_labels)) +
+ # facet_grid2(~Drug, scales = "free",  labeller=as_labeller(drug_labels)) +
   theme(strip.background = element_rect(colour = "black", fill = group.colors)) +
   theme_minimal()
 
@@ -152,7 +152,8 @@ plot_TFs<- function(drugs_vec, res_df){
                            midpoint = 0, limits = c(-7,5)) +
     geom_point() + 
     geom_point(shape = 1,colour = "black")+
-    facet_grid2(~Drug, scales = "free", strip = strip, labeller=as_labeller(drug_labels)) +
+    facet_grid(~Drug, scales = "free") +
+   # facet_grid2(~Drug, scales = "free", strip = strip, labeller=as_labeller(drug_labels)) +
     ylab("Transcription Factors") + 
     theme(
    #   panel.background = element_rect(fill = NA),
@@ -187,8 +188,6 @@ bottom <- res_decoupler_flt %>%
 
 sel_TFs <- res_decoupler_flt %>% 
   filter(source %in% top$source | source %in% bottom$source)
-  #filter(source %in% c("RB1","STAT1","STAT3","AP1","MYC", "FOXO3","FOXO1","FOXO4", "FOSB","E2F1","E2F2","E2F3","E2F4", "CREB1", "ATF4", "STAT3","AP1","RUNX3","JUN", "NFKB","REL"))
-
 
 plot_TFs(c("PI","PD","PIPD","OXO","PIOXO"),sel_TFs)
 

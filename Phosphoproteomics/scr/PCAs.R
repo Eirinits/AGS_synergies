@@ -1,6 +1,5 @@
 library(ggfortify)
 library(stringr)
-setwd("D:/01-PROJECTs/00-CPR/04-SYNERGIES")
 
 input=read.table("Phosphoproteomics/Data/PTM_collapsed_log2_norm_imp_18517.txt", head=T, sep="\t", quote="")
 input<-t(input)
